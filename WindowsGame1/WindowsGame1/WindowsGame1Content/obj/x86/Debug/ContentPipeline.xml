@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>runshootsprite.png</Source>
+      <Name>runshootsprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\runshootsprite.xnb</Output>
+      <Time>2014-01-12T19:44:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fireball.png</Source>
+      <Name>fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fireball.xnb</Output>
+      <Time>2014-01-19T15:04:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>runshoot.png</Source>
+      <Name>runshoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\runshoot.xnb</Output>
+      <Time>2014-01-19T15:45:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>enemysprite.png</Source>
+      <Name>enemysprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\enemysprite.xnb</Output>
+      <Time>2014-01-19T15:48:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>back.png</Source>
+      <Name>back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\back.xnb</Output>
+      <Time>2014-01-19T15:01:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>pain_jack_01.wav</Source>
+      <Name>pain_jack_01</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pain_jack_01.xnb</Output>
+      <Time>2014-01-19T16:15:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>pain_jack_02.wav</Source>
+      <Name>pain_jack_02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pain_jack_02.xnb</Output>
+      <Time>2014-01-19T16:15:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>pain_jack_03.wav</Source>
+      <Name>pain_jack_03</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pain_jack_03.xnb</Output>
+      <Time>2014-01-19T16:15:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gun_rifle_02.wav</Source>
+      <Name>gun_rifle_02</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gun_rifle_02.xnb</Output>
+      <Time>2014-01-19T16:21:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>mutantdie.wav</Source>
+      <Name>mutantdie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mutantdie.xnb</Output>
+      <Time>2014-01-19T16:31:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>nbinstrumental.mp3</Source>
+      <Name>nbinstrumental</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\nbinstrumental.xnb</Output>
+      <Extra>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\nbinstrumental.wma</Extra>
+      <Time>2014-01-19T16:54:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2014-01-19T21:15:20-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-14T17:53:28.2886614-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

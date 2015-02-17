@@ -1,0 +1,50 @@
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\runshootsprite.xnb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fireball.xnb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\runshoot.xnb
+F:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\runshootsprite.xnb
+F:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fireball.xnb
+F:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mine.xnb
+F:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\runshoot.xnb
+F:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+F:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+F:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+F:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\enemysprite.xnb
+F:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\enemysprite.xnb
+F:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\23u6hcx.xnb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\back.xnb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pain_jack_01.xnb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pain_jack_02.xnb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pain_jack_03.xnb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gun_rifle_02.xnb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mutantdie.xnb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\nbinstrumental.xnb
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\nbinstrumental.wma
+E:\XNA\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\runshootsprite.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fireball.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\runshoot.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\enemysprite.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\back.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pain_jack_01.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pain_jack_02.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\pain_jack_03.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\gun_rifle_02.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\mutantdie.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\nbinstrumental.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\nbinstrumental.wma
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\AMavinakere\Desktop\Aril's Files\Computer Science Projects\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

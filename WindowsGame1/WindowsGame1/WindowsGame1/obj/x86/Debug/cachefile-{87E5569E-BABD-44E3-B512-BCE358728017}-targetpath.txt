@@ -1,0 +1,13 @@
+Content\runshootsprite.xnb
+Content\fireball.xnb
+Content\runshoot.xnb
+Content\enemysprite.xnb
+Content\back.xnb
+Content\pain_jack_01.xnb
+Content\pain_jack_02.xnb
+Content\pain_jack_03.xnb
+Content\gun_rifle_02.xnb
+Content\mutantdie.xnb
+Content\nbinstrumental.xnb
+Content\nbinstrumental.wma
+Content\SpriteFont1.xnb
